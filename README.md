@@ -51,20 +51,6 @@ The dataset consists of **4 tables**: **Inventory**, **Products**, **Sales**, an
 
 ---
 
-## 📑 **Table of Contents**
-
-- [📁 Project Structure](#Project-Structure)
-- [📊 Dataset Details](#dataset-details)
-- [🛠️ Database Schema](#database-schema)
-- [💡 Problem Statements](#problem-statements)
-- [⚙️ Installation and Setup](#installation-and-setup)
-- [🚀 How to Run Queries](#how-to-run-queries)
-- [📈 Results Overview](#results-overview)
-- [📄 PDF Documentation](#pdf-documentation)
-- [📞 Contact Information](#contact-information)
-
----
-
 ## 📁 **Project Structure**
 
 ```bash
