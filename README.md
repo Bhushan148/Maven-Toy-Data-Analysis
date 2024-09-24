@@ -53,7 +53,7 @@ The dataset consists of **4 tables**: **Inventory**, **Products**, **Sales**, an
 
 ## 📑 **Table of Contents**
 
-- [📁 Project Structure](#project-structure)
+- [📁 Project Structure](#Project-Structure)
 - [📊 Dataset Details](#dataset-details)
 - [🛠️ Database Schema](#database-schema)
 - [💡 Problem Statements](#problem-statements)
