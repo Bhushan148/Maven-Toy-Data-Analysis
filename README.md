@@ -41,13 +41,13 @@ The dataset consists of **4 tables**: **Inventory**, **Products**, **Sales**, an
 ### Dataset
 - For **Mentorness Task 2**, all the detailed dataset information can be found in the `data/` folder of this repository. This includes CSV files necessary for executing the SQL queries and analyzing the business-related questions.
 
-📥 Download [Google Drive Link](docs/Documentation.pdf)
+📥 Download [Google Drive Link](https://drive.google.com/drive/folders/10KCaSU5lJRzQtF76NppOffSaVaj__H8n)
 
 
 ### PDF Documentation
 - You can access the comprehensive PDF documentation that includes all problem statements, SQL queries, and sample outputs in the `docs/` folder. This report provides a detailed overview of the project and its findings.
 
-📥 Download [Documentation.pdf](docs/Documentation.pdf)
+📥 Download [Documentation.pdf](https://github.com/Bhushan148/Maven-Toy-Data-Analysis/blob/main/Maven%20Toy%20Data%20Analysis.pdf)
 
 ---
 
@@ -473,8 +473,7 @@ Here’s an overview of some key findings:
 ## 📄 PDF Documentation
 You can find a detailed PDF report in the `docs/` folder, which includes all problem statements, SQL queries, and sample outputs.
 
-📥 Download [Documentation.pdf](docs/Documentation.pdf)
-
+📥 Download [Documentation.pdf](https://github.com/Bhushan148/Maven-Toy-Data-Analysis/blob/main/Maven%20Toy%20Data%20Analysis.pdf)
 
 ---
 
@@ -482,6 +481,6 @@ You can find a detailed PDF report in the `docs/` folder, which includes all pro
 If you have any questions or feedback about this project, feel free to reach out:
 
 - 📧 **Email:** bhushanjg14@gmail.com
-- 🌐 **LinkedIn:** [Bhushan Gawali](https://www.linkedin.com/in/bhushan-gawali)
-- 🐙 **GitHub:** [Bhushan148](https://github.com/Bhushan148)
+- 🌐 **LinkedIn:** [Bhushan Gawali](https://www.linkedin.com/in/bhushan-gawali-97b645233?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 🐙 **WhatsApp:** [+91 7787885757](https://wa.me/qr/45BQWP6TQQ24M1)
 
