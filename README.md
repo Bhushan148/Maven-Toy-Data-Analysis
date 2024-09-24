@@ -12,6 +12,30 @@ The dataset consists of **4 tables**: **Inventory**, **Products**, **Sales**, an
 
 ---
 
+## 🛠️ Tools, Skills, and Languages Used
+
+### 🛠️ Tools
+- **PostgreSQL**: Used for database management and executing SQL queries.
+- **Excel**: Utilized for temporary data analysis and data modeling.
+- **Canva**: For creating visually appealing PDF documentation of the project.
+
+### 📚 Skills
+- **SQL**: Proficient in writing complex queries to extract and analyze data from relational databases.
+- **Data Analysis**: Ability to interpret and derive insights from datasets to inform business decisions.
+- **Data Visualization**: Skills in creating visual representations of data for better understanding and presentation of findings.
+
+### 💻 Languages
+- **SQL**: The primary language used for querying the database.
+
+### 📢 Showcase
+- The project is showcased on various platforms, including:
+  - **LinkedIn**: Promoting the project and sharing insights with a professional audience.
+  - **GitHub**: Hosting the project repository for public access and collaboration.
+  - **Portfolio**: Featuring the project as part of a comprehensive data analytics portfolio.
+
+---
+
+
 ## 📚 Project Resources
 
 ### Dataset
